@@ -10,8 +10,8 @@
 - Redes y conceptos básicos de **seguridad informática**  
 - Virtualización con **VirtualBox** / **VMware**  
 - Principios de **Markdown**
-- Etiquetamiento con Lenguajes de marcas
-- Gestión de bases de datos y de información
+- Etiquetamiento con **lenguajes de marcas**
+- Gestión de **bases de datos** y de información
 
 ## 🔧 ⌞ Herramientas y Tecnologías ⌝ 
 - **Sistemas Operativos:** Linux (Ubuntu, Debian, Arch), Windows  
@@ -24,14 +24,14 @@
 
 ## 📚 ⌞ Mis Objetivos ⌝
 - Mejorar mis conocimientos en administración de sistemas Linux y Windows  
-- Aprender sobre progrmación en **Python** y **Web**  
+- Aprender sobre progrmación en **Python** y **Web front-end**  
 - Introducirme en **ciberseguridad** y **Bash scripting**
-- Aplicar automatización con scripts e IA en tareas personales 
-- Seguir una formación en el sector
+- Aplicar automatización con **scripts** e **IA** en tareas personales 
+- Seguir una **formación** en el sector
 
 ## 🚀 ⌞ Proyectos que iré subiendo ⌝  
 - Documentación/apuntes de clase en **Markdown**  
-- Trabajos y tareas prácticas relacionadas con módulos de ASIR  
+- Trabajos y tareas **prácticas** relacionadas con módulos de ASIR  
 
 ---
 ### 💻 Stacks ❀˖°
@@ -46,7 +46,7 @@
 
 <p align="center">
   <span style="font-size:22px; font-weight:bold; color:orange;">
-    🚧 En construcción 🚧
+    🚧 **En construcción** 🚧
   </span>
 </p>
 <p align="center">
