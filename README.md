@@ -18,7 +18,7 @@
 - **Virtualización:** VirtualBox y VMware  
 - **Control de versiones:** Git & GitHub  
 - **Suites:** Office, LibreOffice, Google Docs
-- **Gestion de notas:** Notion y obsidian  
+- **Gestion de notas:** Notion y Obsidian  
 
 ---
 
