@@ -47,6 +47,15 @@
 > ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
+<p align="center">
+  <span style="font-size:22px; font-weight:bold; color:orange;">
+    🚧 En construcción 🚧
+  </span>
+</p>
+
+![En construcción](https://img.shields.io/badge/Estado-En%20construcción-orange?style=for-the-badge&logo=hammer)
+
+
 <p align="right">
   <img src="https://github.com/user-attachments/assets/f72cb610-fbd8-409c-bf22-b331f6005327" width="200">
 </p>
