@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Andrés. 💫
 
-🎓 Estudiante de ** 1º Administración de Sistemas Informáticos en Red (ASIR)**, en Carlos III.  
+🎓 Estudiante de **1º Administración de Sistemas Informáticos en Red (ASIR)**, en Carlos III.  
 💻 Apasionado por la informática, electrónica y ciberseguridad.
 🚀 En proceso de aprender y mejorar mis habilidades para convertirme en un profesional en el área.  
 
@@ -49,8 +49,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andrestlm.andrestlm&"  />
 </div>
-
-###
 
 <img src="https://raw.githubusercontent.com/andrestlm/andrestlm/output/snake.svg" alt="Snake animation" />
 
