@@ -46,7 +46,7 @@
 
 <p align="center">
   <span style="font-size:22px; font-weight:bold; color:orange;">
-    🚧 **En construcción** 🚧
+    🚧 En construcción 🚧
   </span>
 </p>
 <p align="center">
