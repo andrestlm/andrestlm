@@ -51,9 +51,6 @@
   <img src="https://github.com/user-attachments/assets/f72cb610-fbd8-409c-bf22-b331f6005327" width="200">
 </p>
 
-
-![undefined - gif](https://github.com/user-attachments/assets/f72cb610-fbd8-409c-bf22-b331f6005327)
-
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=andrestlm.andrestlm&"  />
 </div>
