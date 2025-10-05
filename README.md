@@ -41,20 +41,21 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=andrestlm&theme=gotham&hide_border=true)<br/>
 ### 🏆 Vitrina
 ![](https://github-profile-trophy.vercel.app/?username=andrestlm&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
-### 🌐 RRSS
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/---------) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@-------) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@---------) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:-------) 
 
-> ✍️ Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+> ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 <p align="center">
   <span style="font-size:22px; font-weight:bold; color:orange;">
     🚧 En construcción 🚧
   </span>
 </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Estado-En%20construcción-orange?style=for-the-badge&logo=hammer" alt="En construcción">
+</p>
 
-![En construcción](https://img.shields.io/badge/Estado-En%20construcción-orange?style=for-the-badge&logo=hammer)
 
+### 🌐 RRSS
+[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/---------) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/@-------) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@---------) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:-------) 
 
 <p align="right">
   <img src="https://github.com/user-attachments/assets/f72cb610-fbd8-409c-bf22-b331f6005327" width="200">
