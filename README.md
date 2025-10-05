@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Andrés. 💫
+# 👋 ¡Buenas! Soy Andrés. 💫
 
 🎓 Estudiante de **1º Administración de Sistemas Informáticos en Red (ASIR)**, en Carlos III.<br/>  
 💻 Apasionado por la informática, electrónica y ciberseguridad.<br/>
