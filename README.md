@@ -1,11 +1,11 @@
-# 👋 ¡Buenas! Soy Andrés. 💫
+# 👋 ¡Buenas! Soy Andrés ⋆✴︎˚｡⋆💫
 
 🎓 Estudiante de **1º Administración de Sistemas Informáticos en Red (ASIR)**, en Carlos III.<br/>  
 💻 Apasionado por la informática, electrónica y ciberseguridad.<br/>
 🚀 En proceso de aprender y mejorar mis habilidades para convertirme en un profesional en el área.<br/>  
 
 ---
-## 🌱 Actualmente aprendiendo  
+## 🌱 ⌞ Actualmente aprendiendo ⌝  
 - Fundamentos de **Linux** y **Windows**  
 - Redes y conceptos básicos de **seguridad informática**  
 - Virtualización con **VirtualBox** / **VMware**  
@@ -13,26 +13,26 @@
 - Etiquetamiento con Lenguajes de marcas
 - Gestión de bases de datos y de información
 
-## 🔧 Herramientas y Tecnologías  
+## 🔧 ⌞ Herramientas y Tecnologías ⌝ 
 - **Sistemas Operativos:** Linux (Ubuntu, Debian, Arch), Windows  
 - **Virtualización:** VirtualBox y VMware  
 - **Control de versiones:** Git & GitHub  
 - **Suites:** Office, LibreOffice, Google Docs
 - **Gestion de notas:** Notion y Obsidian  
-
+౨ৎ
 ---
 
-## 📚 Mis Objetivos 
+## 📚 ⌞ Mis Objetivos ⌝
 - Mejorar mis conocimientos en administración de sistemas Linux y Windows  
 - Aprender sobre progrmación en **Python** y **Web**  
 - Introducirme en **ciberseguridad** y **Bash scripting**
 - Aplicar automatización con scripts e IA en tareas personales 
 - Seguir una formación en el sector
 
-### 🚀 Proyectos que iré subiendo    
+### 🚀 ⌞ Proyectos que iré subiendo ⌝  
 - Documentación/apuntes de clase en **Markdown**  
 - Trabajos y tareas prácticas relacionadas con módulos de ASIR  
-
+❀˖°
 ---
 # 💻 Stacks:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
