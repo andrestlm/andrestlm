@@ -42,7 +42,6 @@
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=andrestlm&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=andrestlm&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=andrestlm&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 Vitrin
 ![](https://github-profile-trophy.vercel.app/?username=andrestlm&theme=gotham&no-frame=true&no-bg=true&margin-w=4)
