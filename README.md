@@ -16,7 +16,7 @@
 ## 🔧 ⌞ Herramientas y Tecnologías ⌝ 
 - **Sistemas Operativos:** Linux (Ubuntu, Debian, Arch), Windows  
 - **Virtualización:** VirtualBox y VMware
-- **Bases de datos:** DB Browser for SQLite
+- **Bases de datos:** SQLite y MariaDB
 - **Simulación de redes:** Cisco Packet Tracer 5.3.3 
 - **Control de versiones:** Git & GitHub  
 - **Suites:** Office, LibreOffice, Google Docs
