@@ -1,4 +1,4 @@
-<center><h1>Hey! I´m Andrés ✦✮💫 <img src="./img/wave.gif" width= 25></h1></center> 
+<center><img src="./img/wave.gif" width= 25><h1>Hey! I´m Andrés ✦✮💫 </h1></center> 
 <img src="./img/banner.png">
 
 ## <img src="./img/sobremi.gif" width= 30> About me 
@@ -11,35 +11,37 @@
 🚀 Actively in the process of learning, expanding my technical knowledge, and sharpening my hands-on skills to become a versatile, reliable, and highly qualified professional in the IT sector.<br/>
 
 ---
-## 🌱 ⌞ Actualmente aprendiendo ⌝  
-- Fundamentos de **Linux** y **Windows**  
-- Redes y conceptos básicos de **seguridad informática**  
-- Virtualización con **VirtualBox** / **VMware**  
-- Principios de **Markdown**
-- Etiquetamiento con **lenguajes de marcas**
-- Gestión de **bases de datos** y de información
+## <img src="./img/aprendiendo.gif" width= 30> ⌞ Currently learning ⌝
+- Fundamentals of **Linux** and **Windows**
+- - Networking and basic **cybersecurity** concepts  
+- Virtualization with **VirtualBox** / **VMware**
+- **Markdown** principles
+- Structuring with **markup languages**
+- **Database** and information management
 
-## 🔧 ⌞ Herramientas y Tecnologías ⌝ 
-- **Sistemas Operativos:** Linux (Ubuntu, Debian, Arch), Windows  
-- **Virtualización:** VirtualBox y VMware
-- **Bases de datos:** SQLite y MariaDB
-- **Simulación de redes:** Cisco Packet Tracer 5.3.3 
-- **Control de versiones:** Git & GitHub  
+## <img src="./img/herramientas.gif" width= 30> ⌞ HTools & Tecnologys ⌝
+- **Operating Systems:** Linux (Ubuntu, Debian, Arch), Windows  
+- **Virtualization:** VirtualBox and VMware
+- **Databases:** SQLite and MariaDB
+- **Network Simulation:** Cisco Packet Tracer 5.3.3 
+- **Version Control:** Git & GitHub  
 - **Suites:** Office, LibreOffice, Google Docs
-- **Gestion de notas:** Notion y Obsidian  
+- **Note Management:** Notion and Obsidian
 
 ---
+## <img src="./img/objetivos.gif" width= 30> ⌞ My Objetives ⌝
+- Improve my knowledge in Linux and Windows systems administration  
+- Learn about **Python** programming and **Web front-end**
+- Get introduced to **cybersecurity** and **Bash scripting**
+- Apply automation with **scripts** and **AI** to personal tasks 
+- Continue my **training** in the tech sector
 
-## 📚 ⌞ Mis Objetivos ⌝
-- Mejorar mis conocimientos en administración de sistemas Linux y Windows  
-- Aprender sobre progrmación en **Python** y **Web front-end**  
-- Introducirme en **ciberseguridad** y **Bash scripting**
-- Aplicar automatización con **scripts** e **IA** en tareas personales 
-- Seguir una **formación** en el sector
-
-## 🚀 ⌞ Proyectos que iré subiendo ⌝  
-- Documentación/apuntes de clase en **Markdown**  
-- Trabajos y tareas **prácticas** relacionadas con módulos de ASIR  
+## <img src="./img/proyectos.gif" width= 30> ⌞ Projects On Going ⌝
+- Class documentation/notes in **Markdown**
+- **Practical** assignments and tasks related to ASIR modules
+- Individual **code** proyects
+- Learning plataforms like **Hack the Box**, **DockerLabs**, **TryHackMe**
+- **Raspberry Pi** proyects
 
 ---
 ### 💻 Stacks ❀˖°
