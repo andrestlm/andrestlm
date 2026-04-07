@@ -3,17 +3,17 @@
 
 ## <img src="./img/sobremi.gif" width= 30> About me 
 <picture> <img align="right" src="https://github.com/andrestlm/andrestlm/blob/main/img/gif_lado.gif?raw=true" width = 250px></picture>
-🎓 Student of **Administración de Sistemas Informáticos en Red (ASIR)** at CIFP Carlos III, building a strong and practical foundation in IT infrastructures.<br/>
-💻 Deeply passionate about computer science, electronics, and the fascinating world of cybersecurity; always curious to understand how technology works under the hood.<br/>
-⚙️ Highly interested in operating systems administration (Linux & Windows), network architecture deployment, and hardware troubleshooting.<br/>
-🛡️ Focused on learning the core principles of network security, system hardening, and data protection to defend against modern digital threats.<br/>
-🧠 Proactive and self-driven, always seeking to tackle new technical challenges, automate processes, and stay updated with the latest tech industry trends.<br/>
-🚀 Actively in the process of learning, expanding my technical knowledge, and sharpening my hands-on skills to become a versatile, reliable, and highly qualified professional in the IT sector.<br/>
+- 🎓 Student of **Administración de Sistemas Informáticos en Red (ASIR)** at CIFP Carlos III, building a strong and practical foundation in IT infrastructures.<br/>
+- 💻 Deeply passionate about computer science, electronics, and the fascinating world of cybersecurity; always curious to understand how technology works under the hood.<br/>
+- ⚙️ Highly interested in operating systems administration (Linux & Windows), network architecture deployment, and hardware troubleshooting.<br/>
+- 🛡️ Focused on learning the core principles of network security, system hardening, and data protection to defend against modern digital threats.<br/>
+- 🧠 Proactive and self-driven, always seeking to tackle new technical challenges, automate processes, and stay updated with the latest tech industry trends.<br/>
+- 🚀 Actively in the process of learning, expanding my technical knowledge, and sharpening my hands-on skills to become a versatile, reliable, and highly qualified professional in the IT sector.<br/>
 
 ---
 ## <img src="./img/aprendiendo.gif" width= 30> ⌞ Currently learning ⌝
 - Fundamentals of **Linux** and **Windows**
-- - Networking and basic **cybersecurity** concepts  
+- Networking and basic **cybersecurity** concepts  
 - Virtualization with **VirtualBox** / **VMware**
 - **Markdown** principles
 - Structuring with **markup languages**
