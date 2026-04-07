@@ -1,10 +1,14 @@
-# 👋 ¡Buenas! Soy Andrés ✦✮💫
+<center><h1>Hey! I´m Andrés ✦✮💫 <img src="./img/wave.gif" width= 25></h1></center> 
+<img src="./img/banner.png">
 
-## <img src="./img/gif_lado.gif" width= 30> About me 
+## <img src="./img/sobremi.gif" width= 30> About me 
 <picture> <img align="right" src="https://github.com/andrestlm/andrestlm/blob/main/img/gif_lado.gif?raw=true" width = 250px></picture>
-🎓 Estudiante de **1º Administración de Sistemas Informáticos en Red (ASIR)**, en CIFP Carlos III<br/>  
-💻 Apasionado por la informática, electrónica y ciberseguridad.<br/>
-🚀 En proceso de aprender y mejorar mis habilidades para convertirme en un profesional en el área.<br/> 
+🎓 Student of **Administración de Sistemas Informáticos en Red (ASIR)** at CIFP Carlos III, building a strong and practical foundation in IT infrastructures.<br/>
+💻 Deeply passionate about computer science, electronics, and the fascinating world of cybersecurity; always curious to understand how technology works under the hood.<br/>
+⚙️ Highly interested in operating systems administration (Linux & Windows), network architecture deployment, and hardware troubleshooting.<br/>
+🛡️ Focused on learning the core principles of network security, system hardening, and data protection to defend against modern digital threats.<br/>
+🧠 Proactive and self-driven, always seeking to tackle new technical challenges, automate processes, and stay updated with the latest tech industry trends.<br/>
+🚀 Actively in the process of learning, expanding my technical knowledge, and sharpening my hands-on skills to become a versatile, reliable, and highly qualified professional in the IT sector.<br/>
 
 ---
 ## 🌱 ⌞ Actualmente aprendiendo ⌝  
