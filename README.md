@@ -1,4 +1,4 @@
-<center><img src="./img/wave.gif" width= 25><h1>Hey! I´m Andrés ✦✮💫 </h1></center> 
+<center><h1><img src="./img/wave.gif" width= 25> Hey! I´m Andrés ✦✮💫 </h1></center> 
 <img src="./img/banner.png">
 
 ## <img src="./img/sobremi.gif" width= 30> About me 
