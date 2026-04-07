@@ -1,8 +1,11 @@
 # 👋 ¡Buenas! Soy Andrés ✦✮💫
 
-🎓 Estudiante de **1º Administración de Sistemas Informáticos en Red (ASIR)**<br/>  
+🎓 Estudiante de **1º Administración de Sistemas Informáticos en Red (ASIR)**, en CIFP Carlos III<br/>  
 💻 Apasionado por la informática, electrónica y ciberseguridad.<br/>
-🚀 En proceso de aprender y mejorar mis habilidades para convertirme en un profesional en el área.<br/>  
+🚀 En proceso de aprender y mejorar mis habilidades para convertirme en un profesional en el área.<br/> 
+
+## <img src="./img/gif_lado.gif" width= 30> About me 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ---
 ## 🌱 ⌞ Actualmente aprendiendo ⌝  
