@@ -47,7 +47,8 @@
 ### <img src="./img/stacks.gif" width= 30> ⌞ Stacks ❀˖° ⌝
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 ### 📊 Stats ⟢ .ᐟ
-> [!WARNING] GitHub Stats are currently down ⬇
+> [!WARNING]
+> GitHub Stats are currently down ⬇
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrestlm&theme=gotham&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br/>
